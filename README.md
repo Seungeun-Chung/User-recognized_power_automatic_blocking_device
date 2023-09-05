@@ -1,0 +1,1 @@
+# User-recognized_power_automatic_blocking_device
