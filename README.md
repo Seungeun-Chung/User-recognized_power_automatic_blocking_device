@@ -1,4 +1,4 @@
-# User-recognize_power_automatic_blocking_device
+# User-recognized_power_automatic_blocking_device
 
 2022.03 ~ 2022.08.
 
