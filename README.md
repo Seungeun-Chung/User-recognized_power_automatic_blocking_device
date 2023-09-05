@@ -1,5 +1,7 @@
 # User-recognized_power_automatic_blocking_device
 
+2022.03 ~ 2022.08.
+
 In this project, I created an openCV-based user recognition structure and then built a device that automatically turns off the power using an algorithm that determines whether a user is present.
 
 Below is a poster that participated in a contest held by the Electrical Society of Korea in 2022, and was awarded in this contest.
